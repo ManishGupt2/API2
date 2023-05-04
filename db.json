@@ -1,41 +1,545 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
-      },
-      {
-        "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
-      },
-      {
-        "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
-      },
-      {
-        "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
-      },
-      {
-        "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
-      },{"author": "Adnan Juzar Kachwala",
-            "title": "Valorant Player Count 2023: How Many People Play Riot's FPS in 2023? - The Sportsrush",
-            "description": "Valorant's player count is at the highest right now in 2023! In comparison to last year, the player count has increased by millions.",
-            "url": "https://thesportsrush.com/valorant-player-count-2023-how-many-people-play-riots-fps-in-2023/",
-            "urlToImage": "https://cdn-wp.thesportsrush.com/2023/05/e38f42fe-valorant-listing-800x450-1.jpg",
-            "publishedAt": "2023-05-02T07:40:00Z",
-            "content": "Valorant has gotten critical acclaim in the three years it has been out and continues to improve itself. Riot has a lot of passion for the characters they make and continue to improve and extend the … [+2385 chars]"
-        }
-    ]
-  }
+  "allData": [
+    {
+      "author": "Nidhi Sinha",
+      "content": "AAP MLA Somnath Bharti and two others were detained following an altercation between police and protesting wrestlers at Jantar Mantar, police said. Bharti had brought folding cots to the site and protesters became aggressive when police intervened, police added. Congress MP Deepender Hooda claimed he had gone to inquire about wrestlers' condition and was detained outside the venue.",
+      "date": "04 May 2023,Thursday",
+      "id": "9d651d9e529945efb584b30a3d449042",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683170215354_792.jpg?",
+      "readMoreUrl": "https://www.hindustantimes.com/india-news/wrestlers-protest-aaps-somnath-bharti-brings-folding-cots-to-jantar-mantar-detained-after-scuffle-101683158899894-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "09:10 am",
+      "title": "AAP MLA Bharti among 3 detained after wrestlers & police clash in Delhi",
+      "url": "https://www.inshorts.com/en/news/aap-mla-bharti-among-3-detained-after-wrestlers-police-clash-in-delhi-1683171611585"
+    },
+    {
+      "author": "Nidhi Sinha",
+      "content": "An SUV collided head-on with a truck on National Highway-30 in Chhattisgarh's Balod district on Wednesday night, killing 11 people, including two children. The accident happened when the victims were going to attend a wedding in Kanker district's Markatola village, police said. CM Bhupesh Baghel expressed grief over the incident. Ten occupants of Mahindra Bolero died on the spot.",
+      "date": "04 May 2023,Thursday",
+      "id": "0fa918d38dc24961b671d443d9c4ec07",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683172627106_540.jpg?",
+      "readMoreUrl": "https://www.outlookindia.com/national/chhattisgarh-suv-truck-collision-on-national-highway-kills-11-including-2-children-news-283454/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "10:02 am",
+      "title": "11 going to wedding killed as SUV & truck collide in Chhattisgarh",
+      "url": "https://www.inshorts.com/en/news/11-going-to-wedding-killed-as-suv-truck-collide-in-chhattisgarh-1683174753779"
+    },
+    {
+      "author": "Anmol Sharma",
+      "content": "Manchester City's 22-year-old forward Erling Haaland broke the record for scoring most goals in a single Premier League season on Wednesday night. Haaland took his tally of goals in Premier League 2022-23 to 35 with a 70th-minute goal against West Ham United. Andy Cole (Newcastle United, 1993-94) and Alan Shearer (Blackburn Rovers 1994-95) jointly held the previous record (34 goals).",
+      "date": "04 May 2023,Thursday",
+      "id": "0cb0abab628b402cbc57febfd7cf707e",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683148541303_983.jpg?",
+      "readMoreUrl": "https://twitter.com/ManCity/status/1653859654177370114?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "08:51 am",
+      "title": "22-year-old Haaland breaks record for scoring most goals in a single PL season",
+      "url": "https://www.inshorts.com/en/news/22yearold-haaland-breaks-record-for-scoring-most-goals-in-a-single-pl-season-1683170510886"
+    },
+    {
+      "author": "Ankush Verma",
+      "content": "After the alleged attempt by Ukraine to assassinate Russian President Vladimir Putin, Deputy Chairman of Russia's Security Council, Dmitry Medvedev, said, \"After today's terrorist attack, there are no options left other than physical elimination of Ukrainian President Volodymyr Zelenskyy and his clique.\" Russia earlier said there was no material damage to the buildings and Putin wasn't injured.\n",
+      "date": "04 May 2023,Thursday",
+      "id": "d9999b5619e746aba41572af68307195",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683173542482_631.jpg?",
+      "readMoreUrl": "https://www.aninews.in/news/world/others/no-option-left-other-than-elimination-of-zelenskyy-russias-ex-leader-medvedev20230504041314/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "09:52 am",
+      "title": "No option left other than elimination of Zelenskyy: Russia after Putin assassination bid",
+      "url": "https://www.inshorts.com/en/news/no-option-left-other-than-elimination-of-zelenskyy-russia-after-putin-assassination-bid-1683174139141"
+    },
+    {
+      "author": "Ankush Verma",
+      "content": "Turkish pop singer Gulsen was handed a 10-month suspended sentence for \"inciting hatred and enmity\" over a joke about the country's religious schools. Gulsen was briefly jailed last year for the joke which she had made during a concert. She had said that the \"perversion\" of one of her musicians came from attending a religious school.",
+      "date": "04 May 2023,Thursday",
+      "id": "df0735e4507642279f7dc432fa40892a",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683168520775_80.jpg?",
+      "readMoreUrl": "https://www.hindustantimes.com/world-news/gulsen-sentenced-turkish-singer-gulsen-sentenced-to-10-months-for-mid-concert-joke-on-religion-101683109337422-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "08:36 am",
+      "title": "Turkish singer Gulsen sentenced over her mid-concert joke on religious schools",
+      "url": "https://www.inshorts.com/en/news/turkish-singer-gulsen-sentenced-over-her-midconcert-joke-on-religious-schools-1683169582163"
+    },
+    {
+      "author": "Anmol Sharma",
+      "content": "Mumbai Indians (MI) recorded the highest successful run chase of IPL 2023 on Wednesday by chasing down a 215-run target against Punjab Kings (PBKS) in Mohali. MI chased down the target in 18.5 overs. Ishan Kishan top-scored for MI with 75(41), while Suryakumar Yadav scored 66(31). ",
+      "date": "03 May 2023,Wednesday",
+      "id": "c446e9b8c2d0487c86a57b870b3cfe02",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683135972297_571.jpg?",
+      "readMoreUrl": "https://www.crictracker.com/live-scores/pbks-vs-mi-match-46-t20-indian-premier-league-03-may-2023/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "11:22 pm",
+      "title": "Mumbai Indians record highest successful run chase of IPL 2023",
+      "url": "https://www.inshorts.com/en/news/mumbai-indians-record-highest-successful-run-chase-of-ipl-2023-1683136337247"
+    },
+    {
+      "author": "Anmol Sharma",
+      "content": "An alleged ruckus took place between protesting wrestlers and Delhi Police at Jantar Mantar on Wednesday. In a video that has surfaced online, wrestler Vinesh Phogat claimed that a police official smashed the head of a protester. She also claimed that Delhi Police verbally abused women wrestlers. The wrestlers have been protesting at Jantar Mantar since April 23.",
+      "date": "03 May 2023,Wednesday",
+      "id": "a531c05f92674aec83dd62d04b7fb330",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683137019625_878.jpg?",
+      "readMoreUrl": "https://twitter.com/PTI_News/status/1653819649916829696?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "11:36 pm",
+      "title": "Ruckus takes place between wrestlers, Delhi Police at Jantar Mantar, video surfaces",
+      "url": "https://www.inshorts.com/en/news/ruckus-takes-place-between-wrestlers-delhi-police-at-jantar-mantar-video-surfaces-1683137207355"
+    },
+    {
+      "author": "Ankush Verma",
+      "content": "Cognizant will lay off 3,500 employees and also give up millions of square feet in office space to save costs, saying that its revenues will decline in 2023. The company will incur $200 million in employee severance and other costs, which it said is \"primarily related to non-billable and corporate personnel, which we expect to mostly incur in 2023\".",
+      "date": "04 May 2023,Thursday",
+      "id": "4500b52dc3944301b3ea7107b32cd366",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683169208374_612.jpg?",
+      "readMoreUrl": "https://www.moneycontrol.com/news/business/cognizant-says-revenue-will-decline-in-2023-to-lay-off-3500-employees-10523261.html/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "08:49 am",
+      "title": "Cognizant to lay off 3,500 employees",
+      "url": "https://www.inshorts.com/en/news/cognizant-to-lay-off-3500-employees-1683170381891"
+    },
+    {
+      "author": "Sakshita Khosla",
+      "content": "Wrestlers have alleged that a policeman who was drunk pushed and abused protesting female wrestlers during the late-night scuffle at Delhi's Jantar Mantar. Delhi Police have, however, denied the claim, saying that the wrestlers \"wrongfully restrained a policeman and accused him of being drunk\". Wrestler Geeta Phogat also alleged her younger brother was assaulted by the police.",
+      "date": "04 May 2023,Thursday",
+      "id": "de84115b9d5643719bef2b120df114a6",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683169919761_838.jpg?",
+      "readMoreUrl": "https://www.hindustantimes.com/india-news/wrestlers-protest-vinesh-phogat-brij-bhushan-sharan-singh-101683161859951-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "08:53 am",
+      "title": "'Drunk policeman abused us,' say wrestlers on late-night clash in Delhi, police deny",
+      "url": "https://www.inshorts.com/en/news/drunk-policeman-abused-us-say-wrestlers-on-latenight-clash-in-delhi-police-deny-1683170594276"
+    },
+    {
+      "author": "Pragya Swastik",
+      "content": "The US Federal Reserve System on Wednesday raised its benchmark interest rate by 25 bps to a 16-year high. The 10th consecutive rate rise lifts the Fed's benchmark overnight interest rate to the 5.00%-5.25% range. This comes after the US inflation slowed in March, with consumer prices rising 4.2% as compared to the same month a year ago.",
+      "date": "03 May 2023,Wednesday",
+      "id": "aaf01587c9274f85b51f9d470adb2492",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683123483650_13.jpg?",
+      "readMoreUrl": "https://www.reuters.com/markets/us/fed-likely-hike-rates-hint-pause-tightening-cycle-2023-05-03/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "11:36 pm",
+      "title": "US Fed hikes key interest rates by 25 bps to 16-year high",
+      "url": "https://www.inshorts.com/en/news/us-fed-hikes-key-interest-rates-by-25-bps-to-16year-high-1683137194136"
+    },
+    {
+      "author": "Ankush Verma",
+      "content": "Two women claim they were forced to change their clothes in public \"with no cover\" to board an American Airlines flight at Las Vegas' Harry Reid International Airport. Passenger Chrissie Mayr shared pictures and wrote, \"Omfg an @AmericanAir employee forced me and @keanuCthompson to change our pants before getting on the flight which actually turned out to be more revealing.\"",
+      "date": "04 May 2023,Thursday",
+      "id": "8726a1dd33fa41018cf075b227580e1c",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683171840280_615.jpg?",
+      "readMoreUrl": "https://www.independent.co.uk/travel/news-and-advice/women-outfits-revealing-american-airlines-flight-b2331459.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "09:47 am",
+      "title": "Women forced to change in public to board flight in US; share pictures",
+      "url": "https://www.inshorts.com/en/news/women-forced-to-change-in-public-to-board-flight-in-us-share-pictures-1683173865867"
+    },
+    {
+      "author": "Athira Sasidharan",
+      "content": "A 13-year-old boy who killed eight fellow students and a security guard in a Serbian school planned the shooting for a month and had a \"kill list\", police said. However, it's unclear if he shot any of the students whom he named on his list. The suspect, who has been arrested, allegedly used his father's guns for Wednesday's attack. ",
+      "date": "04 May 2023,Thursday",
+      "id": "a2afa54840254b8dbcc9cf609e9d9f3a",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683168712656_85.jpg?",
+      "readMoreUrl": "https://amp.dw.com/en/teenage-boy-kills-9-people-in-belgrade-school-shooting/a-65499008?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "09:00 am",
+      "title": "13-yr-old who killed 8 children at Serbia school had 'kill list'",
+      "url": "https://www.inshorts.com/en/news/13yrold-who-killed-8-children-at-serbia-school-had-kill-list-1683171007884"
+    },
+    {
+      "author": "Kameshwari",
+      "content": "Gulshan Devaiah was seen teasing Vijay Varma at the trailer launch event of their upcoming project 'Dahaad'. The video shows Devaiah indirectly mentioning Tamannaah Bhatia's name, which left Vijay Varma speechless as well as smiling. The rumours of Tamannaah and Vijay dating each other first hit the internet when they were spotted together at a New Year's party in Goa. ",
+      "date": "03 May 2023,Wednesday",
+      "id": "ea64a65e9ff34af7b0ad8065abe876b9",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683134366266_370.jpg?",
+      "readMoreUrl": "https://www.youtube.com/watch/mKc4Nt7nr7Y?feature=share&utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "11:12 pm",
+      "title": "Gulshan Devaiah teases Vijay Varma about Tamannaah, video surfaces",
+      "url": "https://www.inshorts.com/en/news/gulshan-devaiah-teases-vijay-varma-about-tamannaah-video-surfaces-1683135727857"
+    },
+    {
+      "author": "Kameshwari",
+      "content": "Backstreet Boys, who have arrived in India for their DNA World Tour Concert, were welcomed by Mumbai's hotel staff with a dance performance on their hit numbers. Nick Carter of Backstreet Boys shared a video on Instagram. \"The hotel staff had...Bollywood style dance prepared remixing all our songs...we really do have fans all over the world,\" Carter wrote.",
+      "date": "03 May 2023,Wednesday",
+      "id": "950135a607c8461c8b4baafcd9fba913",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683136123896_236.jpg?",
+      "readMoreUrl": "https://www.hindustantimes.com/entertainment/music/larger-than-life-backstreet-boys-nick-carter-blown-away-by-reception-in-mumbai-hotel-video-101683130375591-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "11:39 pm",
+      "title": "Video shows Mumbai hotel staff's dance to welcome Backstreet Boys",
+      "url": "https://www.inshorts.com/en/news/video-shows-mumbai-hotel-staffs-dance-to-welcome-backstreet-boys-1683137399294"
+    },
+    {
+      "author": "Swati Dubey",
+      "content": "Chhattisgarh CM Bhupesh Baghel tweeted a video of a boy using abusive words against him and claimed that he's a Bajrang Dal member. \"This child who is refraining from taking the name of Lord Ram is abusing me,\" he wrote. \"See what these people have done to our children under the guise of religion,\" CM Baghel added.",
+      "date": "03 May 2023,Wednesday",
+      "id": "4db63aa36e3f48468b62a06a16681412",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683135982211_791.jpg?",
+      "readMoreUrl": "https://twitter.com/bhupeshbaghel/status/1653766841175805955?s=20&utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "11:24 pm",
+      "title": "CM Baghel posts clip of boy abusing him, says he's from Bajrang Dal",
+      "url": "https://www.inshorts.com/en/news/cm-baghel-posts-clip-of-boy-abusing-him-says-hes-from-bajrang-dal-1683136452862"
+    },
+    {
+      "author": "Subhangi Singh",
+      "content": "Voting for the first phase of municipal polls to elect urban body chiefs in 37 districts of Uttar Pradesh began on Thursday morning. More than 2 crore people are eligible to vote in the first phase, in which the fate of 44,232 candidates will be decided. UP CM Yogi Adityanath also cast his vote from Gorakhpur and shared a picture.",
+      "date": "04 May 2023,Thursday",
+      "id": "57714fda12574389be423cca77b853ba",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683169182034_696.jpg?",
+      "readMoreUrl": "https://www.hindustantimes.com/india-news/up-municipal-election-2023-live-updates-101683158170434-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "09:01 am",
+      "title": "Voting begins in UP municipal elections, CM Yogi casts his vote",
+      "url": "https://www.inshorts.com/en/news/voting-begins-in-up-municipal-elections-cm-yogi-casts-his-vote-1683171108351"
+    },
+    {
+      "author": "Mansi Agarwal",
+      "content": "EV startup BluSmart has reportedly raised about $42 million from BP Ventures and several other existing investors. According to Moneycontrol, more than half of the total funding came from BluSmart founders Anmol Jaggi and Punit Goyal. The company is also planning to conduct a larger, three-digit amount fundraise later, the report stated.",
+      "date": "03 May 2023,Wednesday",
+      "id": "10422eac6d4d495b8bf49c9eabbda4f9",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683134502905_3.jpg?",
+      "readMoreUrl": "https://www.moneycontrol.com/news/business/announcements/blusmart-raises-42-million-in-a-mix-of-equity-and-debt-from-existing-investors-10522411.html/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "11:24 pm",
+      "title": "EV startup BluSmart raises $42 mn from BP Ventures, others: Report",
+      "url": "https://www.inshorts.com/en/news/ev-startup-blusmart-raises-$42-mn-from-bp-ventures-others-report-1683136450726"
+    },
+    {
+      "author": "Subhangi Singh",
+      "content": "Fresh violence erupted in Manipur during tribal agitation on Wednesday after which Army and Assam Rifles were deployed to control situation in state. Manipur government also imposed curfew in eight districts. The incident happened after All Tribal Students Union Manipur (ATSUM) organised rally to express dissent to \"persistent demands\" of Meitei community for its inclusion in ST category.",
+      "date": "04 May 2023,Thursday",
+      "id": "f2acaa4cf22d4692a05ce678d18abe3d",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683172298177_797.jpg?",
+      "readMoreUrl": "https://www.freepressjournal.in/amp/india/fresh-violence-erupts-in-manipur-during-protest-by-the-tribals-internet-shut-down-for-5-days-as-visuals-surface?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "09:55 am",
+      "title": "Fresh violence erupts in Manipur, Army deployed, curfew imposed",
+      "url": "https://www.inshorts.com/en/news/fresh-violence-erupts-in-manipur-army-deployed-curfew-imposed-1683174350110"
+    },
+    {
+      "author": "Subhangi Singh",
+      "content": "Two terrorists were killed in an encounter with security forces in Wanigam Payeen Kreeri area of Baramulla district in Jammu and Kashmir on Thursday, the police said. Police also recovered arms and ammunition including one AK 47 rifle and one pistol from terrorists. On Wednesday, two terrorists were killed during encounter near Pichnad Machil area of Kupwara district in Kashmir.",
+      "date": "04 May 2023,Thursday",
+      "id": "ad54670f58cb440f849efbcc5d9007ea",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683171724607_384.jpg?",
+      "readMoreUrl": "https://news.abplive.com/states/2-terrorists-killed-in-encounter-with-security-forces-in-j-k-s-baramulla-arms-and-ammunition-recovered-1599724/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "09:26 am",
+      "title": "2 terrorists killed in encounter in Jammu and Kashmir's Baramulla",
+      "url": "https://www.inshorts.com/en/news/2-terrorists-killed-in-encounter-in-jammu-and-kashmirs-baramulla-1683172594377"
+    },
+    {
+      "author": "Athira Sasidharan",
+      "content": "Police in Brazil searched ex-President Jair Bolsonaro's home in Brasilia on Wednesday and seized his cell phone as part of an investigation into falsified COVID-19 vaccination records. \"For my part, there was nothing falsified. I didn't take the vaccine,\" Bolsonaro said after the raid. Authorities have alleged falsified COVID-19 documents allowed Bolsonaro evade restrictions in the US and Brazil.",
+      "date": "04 May 2023,Thursday",
+      "id": "3672654b3d7a408db13e92dedb3139b9",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683170454678_607.jpg?",
+      "readMoreUrl": "https://amp.dw.com/en/brazil-police-search-bolsonaros-home-in-covid-vaccine-cards-probe/a-65504750?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "09:07 am",
+      "title": "Brazil police raid ex-Prez Bolsonaro's home, seize his phone",
+      "url": "https://www.inshorts.com/en/news/brazil-police-raid-exprez-bolsonaros-home-seize-his-phone-1683171443433"
+    },
+    {
+      "author": "Bhawana Chaudhary",
+      "content": "Fans of the royal family have started camping along The Mall in central London ahead of King Charles III's Coronation. The monarch will be crowned alongside his wife, Queen Consort Camilla, at the ceremony on May 6. Several videos show that a number of royal fans have arrived in Green Park, close to Buckingham Palace.",
+      "date": "04 May 2023,Thursday",
+      "id": "770e7556cc69460d8e4d3830092cf47a",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683169860417_879.jpg?",
+      "readMoreUrl": "https://www.youtube.com/watch?utm_campaign=fullarticle&v=pCu_-9Y8rbw&utm_medium=referral&utm_source=inshorts ",
+      "time": "09:12 am",
+      "title": "Royal fans start camping along The Mall ahead of Coronation in UK",
+      "url": "https://www.inshorts.com/en/news/royal-fans-start-camping-along-the-mall-ahead-of-coronation-in-uk-1683171743160"
+    },
+    {
+      "author": "Bhawana Chaudhary",
+      "content": "UK's Labour Party leader Sir Keir Starmer said that it takes £9,000 annually to heat Prime Minister Rishi Sunak's swimming pool. The Opposition leader said that aspiring homeowners now have to save £9,000 more, taking around four years. Calling Sunak \"out-of-touch\", Starmer said, \"Four years for the average saver to save £9,000...roughly the annual bill to heat his swimming pool.\"",
+      "date": "04 May 2023,Thursday",
+      "id": "c31495bf6f7d43cca04a0a3b3aa83795",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683171464020_71.jpg?",
+      "readMoreUrl": "https://www.youtube.com/watch?utm_campaign=fullarticle&v=CnsUW9ryR1Q&utm_medium=referral&utm_source=inshorts ",
+      "time": "09:52 am",
+      "title": "It costs £9,000 to heat Sunak's swimming pool: Labour's Starmer",
+      "url": "https://www.inshorts.com/en/news/it-costs-£9000-to-heat-sunaks-swimming-pool-labours-starmer-1683174162962"
+    },
+    {
+      "author": "Bhuvnesh Ojha",
+      "content": "Ukraine is unable to use German-made Panzerhaubitze 2000 howitzers in its counter-offensive against Russia due to wet and muddy conditions on the battlefield, according to a report by The New York Times. \"The problem with PzH 2000 is that they have rubber treads that are better suited to flat [and] hard surfaces, not drenched ground,\" Ukrainian military stated. \n",
+      "date": "04 May 2023,Thursday",
+      "id": "edc3375edbd7440f959c6359275d7c6d",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683171712416_820.jpg?",
+      "readMoreUrl": "https://www.youtube.com/watch?utm_campaign=fullarticle&v=MmYQEX2xdUU&utm_medium=referral&utm_source=inshorts ",
+      "time": "10:11 am",
+      "title": "Ukraine unable to use German arms due to muddy conditions: Report",
+      "url": "https://www.inshorts.com/en/news/ukraine-unable-to-use-german-arms-due-to-muddy-conditions-report-1683175304517"
+    },
+    {
+      "author": "Bhuvnesh Ojha",
+      "content": "Ukraine is \"reluctant\" to share details of its planned counter-offensive against Russia with the West due to fears that it could be leaked, according to Politico. \"Kyiv officials are doing their best to keep specific details about the upcoming battlefield push a secret,\" the report stated. This comes after secret US documents, containing information about Ukraine war, were leaked.",
+      "date": "04 May 2023,Thursday",
+      "id": "56f2a399c001473d8d6d362d105b54f8",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683169713290_639.jpg?",
+      "readMoreUrl": "https://www.youtube.com/watch?utm_campaign=fullarticle&v=3CxR7zFK23E&utm_medium=referral&utm_source=inshorts ",
+      "time": "09:07 am",
+      "title": "Ukraine hiding Russia counterattack plan after files leak: Report",
+      "url": "https://www.inshorts.com/en/news/ukraine-hiding-russia-counterattack-plan-after-files-leak-report-1683171423095"
+    },
+    {
+      "author": "Athira Sasidharan",
+      "content": "A male passenger allegedly punched a United Airlines flight attendant and tried to jump out of the emergency exit during a flight from San Francisco to Houston. The violence reportedly broke out after the man was told to leave someone else's seat. The airline called the passenger's behaviour \"unacceptable\" and said he has been banned from future United Airlines flights.",
+      "date": "04 May 2023,Thursday",
+      "id": "c6b616401c514846bc4c2f5e379e7735",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683173911412_906.jpg?",
+      "readMoreUrl": "https://www.youtube.com/watch?utm_campaign=fullarticle&v=ai_kHkrBcmw&utm_medium=referral&utm_source=inshorts ",
+      "time": "10:11 am",
+      "title": "Man punches flight attendant, tries to jump out of US plane",
+      "url": "https://www.inshorts.com/en/news/man-punches-flight-attendant-tries-to-jump-out-of-us-plane-1683175278739"
+    }
+  ],
+  "technologyData": [
+    {
+      "author": "Ankush Verma",
+      "content": "Cognizant will lay off 3,500 employees and also give up millions of square feet in office space to save costs, saying that its revenues will decline in 2023. The company will incur $200 million in employee severance and other costs, which it said is \"primarily related to non-billable and corporate personnel, which we expect to mostly incur in 2023\".",
+      "date": "04 May 2023,Thursday",
+      "id": "01399818371c4aa883b6c2668354ffdb",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/4_thu/img_1683169208374_612.jpg?",
+      "readMoreUrl": "https://www.moneycontrol.com/news/business/cognizant-says-revenue-will-decline-in-2023-to-lay-off-3500-employees-10523261.html/amp?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "08:49 am",
+      "title": "Cognizant to lay off 3,500 employees",
+      "url": "https://www.inshorts.com/en/news/cognizant-to-lay-off-3500-employees-1683170381891"
+    },
+    {
+      "author": "Pragya Swastik",
+      "content": "Zerodha CEO Nithin Kamath warned of a scam after someone he knows lost ₹5 lakh. \"It started with a response to a part-time job offer on WhatsApp,\" Kamath tweeted, adding that ₹30,000 was given to the person for fake reviews for resorts. The person was then added to a Telegram group and lured into trading on a mock crypto platform.",
+      "date": "03 May 2023,Wednesday",
+      "id": "508e829c45b34d0dacb87a7b7d698ca4",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683118004972_205.jpg?",
+      "readMoreUrl": "https://twitter.com/Nithin0dha/status/1653709508546560002?s=20&utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "06:46 pm",
+      "title": "Zerodha CEO explains a new part-time job scam after friend loses ₹5 lakh",
+      "url": "https://www.inshorts.com/en/news/zerodha-ceo-explains-a-new-parttime-job-scam-after-friend-loses-₹5-lakh-1683119760367"
+    },
+    {
+      "author": "Pragya Swastik",
+      "content": "Mumbai Police have exposed a ring of cybercriminals that stole money from people by posing as police personnel and arrested its mastermind, a Class 12 passout. The 49-year-old mastermind Shrinivas Rao Dadi, who had been making up to ₹5 crore a day, was arrested from a hotel in Hyderabad, PTI reported. Police also arrested four members of his gang.",
+      "date": "03 May 2023,Wednesday",
+      "id": "c547d39106ab458b87fe5b83482c6425",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683109587174_869.jpg?",
+      "readMoreUrl": "https://www.ptinews.com/news/national/mumbai-police-bust-ring-of-cybercriminals-say-12th-pass-mastermind-made-more-than-rs-5-crore-a-day/2/562866.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "04:49 pm",
+      "title": "Class 12 passout making ₹5 crore a day from cyber scams held from Hyderabad",
+      "url": "https://www.inshorts.com/en/news/class-12-passout-making-₹5-crore-a-day-from-cyber-scams-held-from-hyderabad-1683112747132"
+    },
+    {
+      "author": "Pragya Swastik",
+      "content": "Google will be replacing the 'lock' icon in Chrome's address bar with a variant of the tune icon, which is commonly used to indicate controls and settings. \"The lock icon is meant to indicate that the network connection is a secure channel between the browser,\" Google said. \"But it's a remnant of an era where HTTPS was uncommon,\" it added.",
+      "date": "03 May 2023,Wednesday",
+      "id": "1877437f5f3c43e997c2742576b2491c",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683112576602_984.jpg?",
+      "readMoreUrl": "https://tech.hindustantimes.com/amp/tech/news/failed-icon-google-chrome-to-take-away-https-lock-icon-shocking-reason-why-71683100165323.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "04:50 pm",
+      "title": "Google to replace iconic 'lock' icon in Chrome, shares pic of new icon",
+      "url": "https://www.inshorts.com/en/news/google-to-replace-iconic-lock-icon-in-chrome-shares-pic-of-new-icon-1683112813398"
+    },
+    {
+      "author": "Mansi Agarwal",
+      "content": "A dark web drug marketplace called 'Monopoly Market' has been shut down in an Europol-led operation. About $55.7 million in cash and virtual currencies were seized and 288 people were arrested in raids that took place in nine countries over the past 18 months, the agency said on Tuesday. Authorities also seized 850 kg of drugs including cocaine and MDMA.",
+      "date": "02 May 2023,Tuesday",
+      "id": "66cfb6139f24494e8dbf6906d65cc74d",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/2_tue/img_1683047595474_895.jpg?",
+      "readMoreUrl": "https://www.reuters.com/world/europol-led-sting-nabs-288-dark-web-vendors-haul-drugs-2023-05-02/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "11:05 pm",
+      "title": "Dark web drug marketplace shut down in Europol-led sting, 288 held",
+      "url": "https://www.inshorts.com/en/news/dark-web-drug-marketplace-shut-down-in-europolled-sting-288-held-1683048948524"
+    },
+    {
+      "author": "Mansi Agarwal",
+      "content": "Andhra Pradesh CM YS Jagan Mohan Reddy on Wednesday laid foundation stone for ₹21,844 crore Vizag Tech Park. The park, which is being developed by Adani Group, will feature a 200 MW data centre in Madhurawada and a 100 MW data centre in Kapuluppada. Adani Group's MD Rajesh Adani and Adani Ports CEO Karan Adani were present during the ceremony.",
+      "date": "03 May 2023,Wednesday",
+      "id": "22271022f0be4331bf35e10b0f5657b6",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683128437999_280.jpg?",
+      "readMoreUrl": "https://www.youtube.com/watch?utm_campaign=fullarticle&v=KKtcyuQIT-c&utm_medium=referral&utm_source=inshorts ",
+      "time": "09:50 pm",
+      "title": "Andhra CM lays foundation stone for ₹21,844 cr Vizag Tech Park",
+      "url": "https://www.inshorts.com/en/news/andhra-cm-lays-foundation-stone-for-₹21844-cr-vizag-tech-park-1683130840744"
+    },
+    {
+      "author": "Aishwarya Awasthi",
+      "content": "US-based broadcaster NPR has said that Twitter owner Elon Musk \"threatened\" to reassign their Twitter handle to another firm or person. Musk had asked an NPR reporter about the firm's engagement with Twitter, the broadcaster claimed. \"So is NPR going to start posting on Twitter again, or should we reassign @NPR to another company?\" NPR quoted Musk as saying.",
+      "date": "03 May 2023,Wednesday",
+      "id": "4da2616341b64d8790fbd854aa413036",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683104835319_839.jpg?",
+      "readMoreUrl": "https://www.reuters.com/technology/musk-threatens-reassign-npr-twitter-account-npr-says-2023-05-03/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "03:20 pm",
+      "title": "Musk threatened to reassign our Twitter handle to other firm: NPR",
+      "url": "https://www.inshorts.com/en/news/musk-threatened-to-reassign-our-twitter-handle-to-other-firm-npr-1683107441282"
+    },
+    {
+      "author": "Mansi Agarwal",
+      "content": "'Godfather of AI' Geoffrey Hinton, who has left Google to talk about AI risks, said bad actors like Russian President Vladimir Putin can use AI tools to win wars or manipulate elections. In an interview with MIT Technology Review, Hinton said, \"Don't think for a moment that Putin wouldn't make hyper-intelligent robots with the goal of killing Ukrainians.\"",
+      "date": "03 May 2023,Wednesday",
+      "id": "6dafa380cb704ab0896f4f32a970ce93",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683118296836_327.jpg?",
+      "readMoreUrl": "https://www.youtube.com/watch?utm_campaign=fullarticle&v=b0UrTuNROSI&utm_medium=referral&utm_source=inshorts ",
+      "time": "06:31 pm",
+      "title": "Putin can make hyper-intelligent robots to kill Ukrainians: Hinton",
+      "url": "https://www.inshorts.com/en/news/putin-can-make-hyperintelligent-robots-to-kill-ukrainians-hinton-1683118869394"
+    },
+    {
+      "author": "Mansi Agarwal",
+      "content": "Tata Play, formerly known as Tata Sky, has secured SEBI's approval to move ahead with its IPO plan. Additionally, the regulator has also allowed IIT Bombay alumni-founded drone startup ideaForge Technology to raise funds via IPO. Last year, Tata Play became first Indian company to opt for confidential pre-filing of draft papers option for an IPO.",
+      "date": "02 May 2023,Tuesday",
+      "id": "6a88927931b64b4bba9451b4a908837b",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/2_tue/img_1683041640788_888.jpg?",
+      "readMoreUrl": "https://www.bqprime.com/ipos/tata-play-ideaforge-technology-get-sebi-go-ahead-to-float-ipos?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "09:54 pm",
+      "title": "Tata Play, drone maker ideaForge get SEBI's approval for IPO",
+      "url": "https://www.inshorts.com/en/news/tata-play-drone-maker-ideaforge-get-sebis-approval-for-ipo-1683044681746"
+    },
+    {
+      "author": "Nidhi Sinha",
+      "content": "Twitter owner Elon Musk has stated that the microblogging platform's video upload is \"bad\". He tweeted, \"Sorry our video upload is so bad! We're working on major improvements.\" He added, \"I recommend 480p for video longer than 10 [minutes]...That resolution is fine for phone/laptop users.\" Further, he said videos posted natively to Twitter will be boosted more than external links.",
+      "date": "03 May 2023,Wednesday",
+      "id": "0dd171e79a264a6ab2fe6f56b7ae44b6",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683081811614_359.jpg?",
+      "readMoreUrl": "https://twitter.com/elonmusk/status/1653487811683848193?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "08:44 am",
+      "title": "Sorry Twitter's video upload is bad, working on improvements: Musk",
+      "url": "https://www.inshorts.com/en/news/sorry-twitters-video-upload-is-bad-working-on-improvements-musk-1683083651499"
+    },
+    {
+      "author": "Nidhi Sinha",
+      "content": "US scientists claimed they've found a way to use brain scans and artificial intelligence to transcribe the gist of human thoughts. For a study, three people spent 16 hours inside an fMRI machine, allowing researchers to map out how words and meanings prompted responses in their brains. This data was fed into a GPT-1 AI model to interpret participants' thoughts.",
+      "date": "03 May 2023,Wednesday",
+      "id": "a3f6cdebba7a44c0932018be2f761bbe",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683092805667_112.jpg?",
+      "readMoreUrl": "https://tech.hindustantimes.com/amp/tech/news/scientists-use-brain-scans-and-ai-to-decode-thoughts-71682998003594.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "11:28 am",
+      "title": "Brain scans, AI used to decode human thoughts by US scientists",
+      "url": "https://www.inshorts.com/en/news/brain-scans-ai-used-to-decode-human-thoughts-by-us-scientists-1683093481217"
+    },
+    {
+      "author": "Mansi Agarwal",
+      "content": "Meta in its latest adversarial threat report said it took action against about 120 accounts on Facebook and Instagram that were linked to a hacking group in Pakistan. These accounts targeted people in India, including Indian military personnel, Meta stated. The company said it also took action against India-based hacking group Patchwork, with which about 50 accounts were linked.",
+      "date": "03 May 2023,Wednesday",
+      "id": "d0284e5cd9894ec59de37712700cc0c1",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683131650053_151.jpg?",
+      "readMoreUrl": null,
+      "time": "10:35 pm",
+      "title": "Meta detects Pak hacking group that targeted Indian army personnel",
+      "url": "https://www.inshorts.com/en/news/meta-detects-pak-hacking-group-that-targeted-indian-army-personnel-1683133545913"
+    },
+    {
+      "author": "Ashley Paul",
+      "content": "Artificial intelligence (AI) won't take jobs away but someone who knows how to use it might, economist Richard Baldwin said at World Economic Forum's Growth Summit. \"AI is essentially wisdom in a can,\" he said. \"The most talented workers are people who have 20 years of experience and know how to apply that. That's what AI does overnight,\" he added.",
+      "date": "03 May 2023,Wednesday",
+      "id": "e28617c4d6a54a73991cc13926e3b084",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683104633561_120.jpg?",
+      "readMoreUrl": "https://twitter.com/wef/status/1653344066325585921?s=20&utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "03:08 pm",
+      "title": "Not AI, but someone using it may take jobs away: Economist Baldwin",
+      "url": "https://www.inshorts.com/en/news/not-ai-but-someone-using-it-may-take-jobs-away-economist-baldwin-1683106739424"
+    },
+    {
+      "author": "Mansi Agarwal",
+      "content": "TikTok on Tuesday said its head of trust and safety for US data security, Eric Han, will leave the company on May 12. His departure comes as the company owned by China's ByteDance faces risk of getting banned in US over data privacy concerns. Recently, TikTok has been banned from government devices in multiple countries including Canada and UK.",
+      "date": "03 May 2023,Wednesday",
+      "id": "511c417c23104444b42467d44902365e",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683106253231_623.jpg?",
+      "readMoreUrl": "https://www.news18.com/amp/tech/tiktoks-head-of-us-data-security-to-leave-company-amid-calls-for-app-ban-7705951.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "03:33 pm",
+      "title": "TikTok's US data security chief to leave amid calls for app ban",
+      "url": "https://www.inshorts.com/en/news/tiktoks-us-data-security-chief-to-leave-amid-calls-for-app-ban-1683108183117"
+    },
+    {
+      "author": "Mansi Agarwal",
+      "content": "Tesla chief Elon Musk's private jet produced 2,112 tons of carbon dioxide emissions last year, 132 times more than the entire carbon footprint of an average American, according to a report by the Institute for Policy Studies and Patriotic Millionaires. The billionaire took 171 flights and his private jet consumed 837,934 litres of fuel in 2022, the report noted.",
+      "date": "02 May 2023,Tuesday",
+      "id": "e03f58bcc91a43478a0dbb6afa2628bb",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/2_tue/img_1683045564935_133.jpg?",
+      "readMoreUrl": "https://ips-dc.org/report-high-flyers-2023/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "10:16 pm",
+      "title": "Musk's jet emitted 132 times more carbon than avg American: Report",
+      "url": "https://www.inshorts.com/en/news/musks-jet-emitted-132-times-more-carbon-than-avg-american-report-1683045978988"
+    },
+    {
+      "author": "Nidhi Sinha",
+      "content": "Inflection AI, the startup founded by LinkedIn Co-founder Reid Hoffman and DeepMind Co-founder Mustafa Suleyman, has released its first AI chatbot product. The startup's chatbot, named Pi, is similar to ChatGPT and uses generative AI technology to interact with users through conversations. Users can interact with Pi across platforms, including its website and social media platforms like Instagram.",
+      "date": "03 May 2023,Wednesday",
+      "id": "ad3c7c064b2d486e92938e3cfd5fc320",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683104785193_820.jpg?",
+      "readMoreUrl": "https://www.reuters.com/technology/reid-hoffmans-new-ai-startup-inflection-launches-chatgpt-like-chatbot-2023-05-02/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "03:26 pm",
+      "title": "LinkedIn Co-founder Reid Hoffman's startup launches 'Pi' chatbot",
+      "url": "https://www.inshorts.com/en/news/linkedin-cofounder-reid-hoffmans-startup-launches-pi-chatbot-1683107794381"
+    },
+    {
+      "author": "Mansi Agarwal",
+      "content": "Microsoft Chief Economist Michael Schwarz said he's \"confident\" that AI will be used by bad actors and will cause \"real damage\". Schwarz, however, stated that AI regulation should be brought in once the technology causes \"real harm\". \"The benefits from the regulation to our society should be greater than the cost,\" he added.",
+      "date": "03 May 2023,Wednesday",
+      "id": "566119df63fc42f99c9db760e1584f7f",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683119444306_429.jpg?",
+      "readMoreUrl": null,
+      "time": "07:15 pm",
+      "title": "AI will cause real damage: Microsoft Chief Economist",
+      "url": "https://www.inshorts.com/en/news/ai-will-cause-real-damage-microsoft-chief-economist-1683121530461"
+    },
+    {
+      "author": "Mansi Agarwal",
+      "content": "Ford CEO Jim Farley on Wednesday said price cuts in the EV market is \"a worrying trend\". \"The resale value for people who bought at higher prices is awful. They never forget,\" Farley stated. His comments came as Ford reduced price of its Mustang Mach-E electric vehicle by up to 8% following a series of price cuts by rival Tesla.",
+      "date": "03 May 2023,Wednesday",
+      "id": "51d25f92074e4017bf6638f407b83d2c",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683134265705_602.jpg?",
+      "readMoreUrl": "https://www.reuters.com/business/autos-transportation/ford-ceo-says-price-cuts-ev-market-a-worrying-trend-2023-05-03/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "10:59 pm",
+      "title": "Price cuts in EV market worrying trend: Ford CEO",
+      "url": "https://www.inshorts.com/en/news/price-cuts-in-ev-market-worrying-trend-ford-ceo-1683134996855"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "Meta said since March, it has found around 10 malware families and over 1,000 malicious links that were promoted as tools featuring ChatGPT. Meta uncovered malware purveyors leveraging public interest in ChatGPT to lure users into downloading malicious apps and browser extensions. Meta's Chief Information Security Officer Guy Rosen said that for bad actors, \"ChatGPT is the new crypto\".",
+      "date": "03 May 2023,Wednesday",
+      "id": "6a2ff43a9c87470f8a694ce18b100a48",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683121513867_921.jpg?",
+      "readMoreUrl": "https://www.reuters.com/technology/meta-says-chatgpt-related-malware-is-rise-2023-05-03/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "08:20 pm",
+      "title": "Meta detects 1,000 malicious links hosting ChatGPT-like malware",
+      "url": "https://www.inshorts.com/en/news/meta-detects-1000-malicious-links-hosting-chatgptlike-malware-1683125441955"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "'Godfather of AI' Geoffrey Hinton expressed concerns over tools like ChatGPT scouring the internet for information and creating a final product. He believes \"the internet might soon be flooded with false photos...and the average person will \"not be able to know what is true anymore\". He adds, machine learning \"takes away the drudge work...It might take away more than that\".",
+      "date": "02 May 2023,Tuesday",
+      "id": "e49216056cff49f3bc333d34f8dc92cf",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/2_tue/img_1683045767470_570.jpg?",
+      "readMoreUrl": null,
+      "time": "10:52 pm",
+      "title": "Average person won't know what is true: Hinton on AI concerns",
+      "url": "https://www.inshorts.com/en/news/average-person-wont-know-what-is-true-hinton-on-ai-concerns-1683048167980"
+    },
+    {
+      "author": "Srishty Choudhury",
+      "content": "Alphabet-owned Google and Apple said on Tuesday that they were working together to curb unwanted tracking of people by Bluetooth devices such as AirTags used for finding lost items. Both companies have together submitted a draft with specifications that will require all Bluetooth location-tracking devices to alert users of any unauthorised tracking on both iOS and Android devices.",
+      "date": "02 May 2023,Tuesday",
+      "id": "cdada82d1a524b57b0cd8b349a007b89",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/2_tue/img_1683046309159_223.jpg?",
+      "readMoreUrl": "https://www.reuters.com/technology/google-apple-submit-proposal-fight-misuse-bluetooth-location-tracking-devices-2023-05-02/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "10:54 pm",
+      "title": "Google, Apple working together to address unwanted tracking",
+      "url": "https://www.inshorts.com/en/news/google-apple-working-together-to-address-unwanted-tracking-1683048272939"
+    },
+    {
+      "author": "Mansi Agarwal",
+      "content": "Meta in its latest transparency report said it took action against more than 38.4 million content pieces on Facebook and over 4.61 million content pieces on Instagram in India in March for policy violations. According to the report, Facebook received 7,193 reports through the Indian grievance mechanism, while Instagram received 9,226 reports during the month.",
+      "date": "03 May 2023,Wednesday",
+      "id": "beb8371bca6a4d1489f2ee62ab1c2a90",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683111712111_550.jpg?",
+      "readMoreUrl": "https://www.siasat.com/meta-purges-43-mn-bad-content-on-fb-insta-in-march-in-india-2581285/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "05:00 pm",
+      "title": "Meta takes action against 43 mn content pieces in India in March",
+      "url": "https://www.inshorts.com/en/news/meta-takes-action-against-43-mn-content-pieces-in-india-in-march-1683113417954"
+    },
+    {
+      "author": "Aishwarya Awasthi",
+      "content": "Former Twitter India head Manish Maheshwari has written to Twitter owner Elon Musk listing five-point recommendations for the platform. In his letter, Maheshwari wrote that Twitter's latest verification policy changes hurt the digital reputation of prominent figures like Ratan Tata, Amitabh Bachchan and Priyanka Chopra. He added that damage has been done to the trust celebrities had in Twitter.",
+      "date": "03 May 2023,Wednesday",
+      "id": "e6b126370869457c8563898f68955448",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683118417082_806.jpg?",
+      "readMoreUrl": "https://twitter.com/manishm/status/1653310968548433921?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1653310968548433921%7Ctwgr%5Eb00f592ffa8ee8efc577eaa94bc531438ea3f33c%7Ctwcon%5Es1_&utm_campaign=fullarticle&utm_medium=referral&ref_url=https%3A%2F%2Fwww.moneycontrol.com%2Fnews%2Ftrends%2Fratan-tata-twitter-reputation-affected-verification-policy-elon-musk-10519761.html&utm_source=inshorts ",
+      "time": "06:55 pm",
+      "title": "Twitter's verification rule hit Tata's reputation: Ex-India head",
+      "url": "https://www.inshorts.com/en/news/twitters-verification-rule-hit-tatas-reputation-exindia-head-1683120307040"
+    },
+    {
+      "author": "Nidhi Sinha",
+      "content": "Google CEO Sundar Pichai, Microsoft CEO Satya Nadella, OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei have been invited to discuss key artificial intelligence issues at White House on Thursday, an official said. The invitation reportedly noted President Joe Biden's \"expectation that companies like yours must make sure their products are safe before making them available to the public\".",
+      "date": "03 May 2023,Wednesday",
+      "id": "ca470d88f5aa4eba9f6a77906237c051",
+      "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/05_may/3_wed/img_1683087207783_282.jpg?",
+      "readMoreUrl": "https://theprint.in/tech/google-microsoft-ceos-called-to-ai-meeting-at-white-house/1552217/?amp=&utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
+      "time": "10:24 am",
+      "title": "Google, Microsoft CEOs called to AI meet at White House: Official",
+      "url": "https://www.inshorts.com/en/news/google-microsoft-ceos-called-to-ai-meet-at-white-house-official-1683089693259"
+    }
+  ]
+}
